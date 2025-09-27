@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VoChiThanh_Module2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e1a7b7bc899cda10cb67a3d5cad212235938ad6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cea5149069bc4288c908cff44a71513f1086073")]
 [assembly: System.Reflection.AssemblyProductAttribute("VoChiThanh_Module2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VoChiThanh_Module2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

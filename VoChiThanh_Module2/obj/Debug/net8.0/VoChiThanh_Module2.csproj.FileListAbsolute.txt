@@ -102,10 +102,10 @@
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.AssemblyInfoInputs.cache
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.AssemblyInfo.cs
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.csproj.CoreCompileInputs.cache
+/workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.sourcelink.json
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiTha.C0BC8907.Up2Date
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.dll
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/refint/VoChiThanh_Module2.dll
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.pdb
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.genruntimeconfig.cache
 /workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/ref/VoChiThanh_Module2.dll
-/workspace/csharp-mstest-demo/VoChiThanh_Module2/obj/Debug/net8.0/VoChiThanh_Module2.sourcelink.json

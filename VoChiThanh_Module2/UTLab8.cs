@@ -7,7 +7,7 @@ using System;
 public class UTLab8
 {
     [TestMethod]
-    public void TestQuickSort()
+    public void TestContext()
     {
         string path = Path.Combine(AppContext.BaseDirectory, "UTLab7.csv");
         Assert.IsTrue(File.Exists(path), $"Không tìm thấy file CSV: {path}");

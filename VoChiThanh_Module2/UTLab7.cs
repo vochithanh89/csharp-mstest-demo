@@ -7,7 +7,7 @@ using System;
 public class UTLab7
 {
     [TestMethod]
-    public void TestLargest()
+    public void TestContext()
     {
         string path = Path.Combine(AppContext.BaseDirectory, "UTLab6.csv");
         Assert.IsTrue(File.Exists(path), $"Không tìm thấy file CSV: {path}");
