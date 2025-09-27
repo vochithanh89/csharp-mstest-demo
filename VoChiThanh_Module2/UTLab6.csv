@@ -1,0 +1,7 @@
+s1,s2,s3,expected
+Truong dh cong nghiep,dh,dai hoc,Truong dai hoc cong nghiep
+,dh,Truong dai hoc con,
+xin chao mn,,moi nguoi,xin chao mn
+axyz,a,b,bxyz
+axyz,z,e,axye
+123abc,123,,abc
